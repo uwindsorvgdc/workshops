@@ -5,7 +5,6 @@ All the resources needed to follow along with the VGDC Boat Shooting game worksh
 1) Make sure you have unity 2021 or higher installed on your machine, if not install the latest version so you don't run into any compatibility issues
 2) Create a unity account if you haven't already 
 3) Open the packages file in the repo and follow the links to add each asset to your unity account, 2 packages in total.
-4) We encourage you to have a gaming controller that works with your laptop with you, but if that is not possible, fear not, a keyboard is your best friend!
 
 If you have any trouble with any of the steps above, you can shoot us a message on the discord server before hand, and we will happily help you
 
